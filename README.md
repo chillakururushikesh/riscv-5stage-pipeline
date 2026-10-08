@@ -72,4 +72,4 @@ vvp riscv_top
 This repository represents the pipelined RISC-V implementation and is intended as a learning and design project for processor architecture and digital hardware design.
 
 ## Author
-RUSHIKESH CHILLAKUR
+RUSHIKESH CHILLAKURU
